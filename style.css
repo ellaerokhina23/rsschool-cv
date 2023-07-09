@@ -76,17 +76,35 @@ a {
 .languages {
     margin-bottom: 30px;
 }
-footer {
-  margin-top: auto;
-  text-align: center;
-  padding: 10px;
-  background-color: #f6f6f6;
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
+.label {
+    margin-top: auto;
+    text-align: center;
+    padding: 20px;
 }
-footer p {
+.label p {
     margin: 0;
-  }
+    margin-bottom: 20px;
+}
+
+.label img {
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+
+.course-information .course-link {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.label .author {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+footer {
+    background-color: #f6f6f6;
+    margin-top: auto;
+    text-align: center;
+    padding: 20px;
+}
   
