@@ -25,3 +25,24 @@ I am pursuing a bachelor's degree in "Applied Mathematics and Computer Science".
 I believe that my experience and ability to learn will lead me to an opportunity to become a Front-end Developer.
 
 -------------------------
+
+## Education
+
+- Degree: Bachelor in Applied Mathematics and Computer Science
+- University: RTU MIREA
+- Year: 2021-2025
+
+-------------------------
+
+## Skills
+
+- Programming Languages: JavaScript, Python
+- Web Development: HTML, CSS
+- Database: SQL
+- Version Control: Git
+- Problem Solving
+- Teamwork
+- Communication
+- Analytical thinking
+
+------------------------- 
