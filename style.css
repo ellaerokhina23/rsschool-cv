@@ -1,0 +1,110 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+img {
+    max-width: 800px;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #D3D3D3;
+    margin: 20px 0;
+}
+
+ul {
+    list-style-type: square;
+    padding: 0;
+    margin: 0;
+}
+
+ul > li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #0070c9;
+    text-decoration: none;
+}
+
+.summary {
+    margin-bottom: 30px;
+}
+
+.code-example {
+    background-color: #f6f6f6;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    font-family: monospace;
+}
+
+.certifications {
+    margin-bottom: 30px;
+}
+
+.languages {
+    margin-bottom: 30px;
+}
+.label {
+    margin-top: auto;
+    text-align: center;
+    padding: 20px;
+}
+.label p {
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.label img {
+    max-width: 150px;
+    margin-bottom: 20px;
+}
+
+.course-information .course-link {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.label .author {
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+footer {
+    background-color: #f6f6f6;
+    margin-top: auto;
+    text-align: center;
+    padding: 20px;
+}
+  
