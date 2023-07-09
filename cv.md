@@ -46,3 +46,44 @@ I believe that my experience and ability to learn will lead me to an opportunity
 - Analytical thinking
 
 ------------------------- 
+
+## Code Example
+
+javascript
+// Display a welcome message to the user
+function greetUser(name) {
+  console.log("Hello, " + name + "! Welcome to my portfolio website.");
+}
+
+// Calculate the sum of two numbers
+function calculateSum(num1, num2) {
+  return num1 + num2;
+}
+
+// Validate an email address
+function validateEmail(email) {
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  return emailRegex.test(email);
+}
+
+// Example usage of the functions
+greetUser("John Doe");
+const sum = calculateSum(5, 7);
+console.log("The sum is: " + sum);
+const isValidEmail = validateEmail("example@email.com");
+console.log("Is the email valid? " + isValidEmail);
+
+
+------------------------- 
+
+## Certifications
+
+- The Interactive Website Project ("The Engineers of the Future", 2020)
+
+------------------------- 
+
+## Languages
+
+- Russian (Native)
+- English (Upper-Intermediate)
+- German (Fluent)
